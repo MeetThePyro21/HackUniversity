@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\bin\Debug\HackUniversity server.exe.config
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\bin\Debug\HackUniversity server.exe
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\bin\Debug\HackUniversity server.pdb
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity server.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity_server.Form1.resources
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity_server.Properties.Resources.resources
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity server.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity server.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity server.exe
+C:\Users\Александр\Desktop\Лабы\HackUniversity server\HackUniversity server\obj\Debug\HackUniversity server.pdb
